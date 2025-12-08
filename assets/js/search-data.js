@@ -469,7 +469,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%6F%72%74%65%67%61%66@%65%73%74%75%64%69%61%6E%74%65.%75%63.%63%6C", "_blank");
+          window.open("mailto:%6A%75%6F%72%74%65%67%61%75%63@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
@@ -484,13 +484,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/juan-ortega-800490377# your LinkedIn user name", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
