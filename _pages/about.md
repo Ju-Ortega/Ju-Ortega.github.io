@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Sobre mí
+title: About me
 permalink: /
 subtitle: Doctorante en Ciencias de la Ingeniería (Mecánica) - PUC Chile.
 
