@@ -31,7 +31,7 @@ Mi objetivo principal es desarrollar modelos computacionales eficientes que comb
 
 ### Áreas de Interés
 
-* **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs), SINDy.
+* **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs).
 * **Modelado Cardíaco:** Ecuación Eikonal, tensores anisotrópicos, dinámica de fluidos.
 * **Computación Científica:** Desarrollo de solvers diferenciables en Python (**JAX**) y MATLAB.
 
