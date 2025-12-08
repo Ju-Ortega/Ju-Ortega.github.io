@@ -2,37 +2,37 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Doctorante en Ciencias de la Ingeniería (Mecánica) - PUC Chile.
+subtitle: Ph.D. Student in Engineering Sciences (Mechanical) - PUC Chile.
 
 profile:
-  align: right
-  image: foto.jpeg
-  image_circular: false 
-  address: >
-    The Hidden Heart Lab<br>
-    Depto. de Ing. Mecánica y Metalúrgica<br>
-    Pontificia Universidad Católica de Chile
+  align: right
+  image: foto.jpeg
+  image_circular: false 
+  address: >
+    The Hidden Heart Lab<br>
+    Dept. of Mechanical and Metallurgical Engineering<br>
+    Pontificia Universidad Católica de Chile
 
-selected_papers: false # Desactivado hasta que tengas papers
-social: true 
+selected_papers: false # Disabled until you have papers
+social: true 
 
 announcements:
-  enabled: false # Desactivado para que no salgan noticias de ejemplo
+  enabled: false # Disabled so example news items don't appear
 
 latest_posts:
-  enabled: false # Desactivado para que no salgan posts de ejemplo
+  enabled: false # Disabled so example posts don't appear
 ---
 
-Soy **Juan Ortega**, Licenciado en Física y actual estudiante de Doctorado en Ciencias de la Ingeniería con mención en Ingeniería Mecánica en la [Pontificia Universidad Católica de Chile](https://www.uc.cl/). 
+I am **Juan Ortega**, a Bachelor of Science in Physics and a current Ph.D. student in Engineering Sciences with a specialization in Mechanical Engineering at the [Pontificia Universidad Católica de Chile](https://www.uc.cl/). 
 
-Desarrollo mi investigación en **[The Hidden Heart Lab](https://hiddenheartlab.org/)**, bajo la supervisión del profesor Francisco Sahli Costabal. Mi trabajo se centra en la intersección de la **mecánica computacional**, la **electrofisiología cardíaca** y el **aprendizaje automático científico (Scientific ML)**.
+I conduct my research at **[The Hidden Heart Lab](https://hiddenheartlab.org/)**, under the supervision of Professor Francisco Sahli Costabal. My work is focused on the intersection of **computational mechanics**, **cardiac electrophysiology**, and **Scientific Machine Learning (Scientific ML)**.
 
-Mi objetivo principal es desarrollar modelos computacionales eficientes que combinen la física clásica con redes neuronales (PINNs) para mejorar la simulación y comprensión de patologías cardíacas.
+My main goal is to develop efficient computational models that combine classical physics with neural networks (PINNs) to improve the simulation and understanding of cardiac pathologies.
 
-### Áreas de Interés
+### Areas of Interest
 
 * **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs).
-* **Modelado Cardíaco:** Ecuación Eikonal, tensores anisotrópicos, dinámica de fluidos.
-* **Computación Científica:** Desarrollo de solvers diferenciables en Python (**JAX**) y MATLAB.
+* **Cardiac Modeling:** Eikonal Equation, anisotropic tensors, fluid dynamics.
+* **Scientific Computing:** Development of differentiable solvers in Python (**JAX**) and MATLAB.
 
 ---
