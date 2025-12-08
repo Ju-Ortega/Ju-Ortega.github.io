@@ -31,7 +31,7 @@ My main goal is to develop efficient computational models that combine classical
 
 ### Areas of Interest
 
-* **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs) and SINDy.
+* **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs).
 * **Cardiac Modeling:** Eikonal Equation, anisotropic tensors, and fluid dynamics.
 * **Scientific Computing:** Development of differentiable solvers in Python (**JAX**) and MATLAB.
 
