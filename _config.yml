@@ -7,7 +7,6 @@ first_name: Juan
 middle_name: Ignacio
 last_name: Ortega
 email: jortegaf@estudiante.uc.cl
-cv_pdf: cv_beta.pdf
 contact_note: >
   Doctorante en Ciencias de la Ingeniería (Mecánica) - PUC Chile. Investigador en Scientific Machine Learning y Modelado Cardíaco.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
