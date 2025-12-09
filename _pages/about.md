@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Ph.D. Student in Engineering Sciences (Mechanical) - PUC Chile.
+#subtitle: Ph.D. Student in Engineering Sciences (Mechanical) - PUC Chile.
 
 profile:
   align: right
@@ -22,8 +22,7 @@ announcements:
 latest_posts:
   enabled: false 
 ---
-
-I am **Juan Ortega**, a Ph.D. student in Engineering Sciences (Mechanical Engineering) at the [Pontificia Universidad Católica de Chile](https://www.uc.cl/). I also hold a B.Sc. in Physics from the [Universidad de Concepción](https://www.udec.cl/).
+Ph.D. student in Engineering Sciences (Mechanical Engineering), [Pontificia Universidad Católica de Chile](https://www.uc.cl/). B.Sc. in Physics, [Universidad de Concepción](https://www.udec.cl/).
 
 I conduct my research at **[The Hidden Heart Lab](https://hiddenheartlab.org/)**, under the supervision of Professor Francisco Sahli Costabal. My work focuses on the intersection of **computational mechanics**, **cardiac electrophysiology**, and **Scientific Machine Learning (Scientific ML)**.
 
