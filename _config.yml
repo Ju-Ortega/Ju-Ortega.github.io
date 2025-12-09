@@ -17,7 +17,8 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: PINNs, Scientific Machine Learning, Electrofisiología, Mecánica Computacional, JAX
 lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+#icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🫀
 
 url: https://Ju-Ortega.github.io
 baseurl: "" #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
