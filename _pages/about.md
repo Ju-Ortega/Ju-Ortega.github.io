@@ -24,7 +24,7 @@ latest_posts:
 ---
 Ph.D. student in Engineering Sciences (Mechanical Engineering), [Pontificia Universidad Católica de Chile](https://www.uc.cl/). B.Sc. in Physics, [Universidad de Concepción](https://www.udec.cl/).
 
-I conduct my research at **[The Hidden Heart Lab](https://hiddenheartlab.org/)**, under the supervision of Professor Francisco Sahli Costabal. My work focuses on the intersection of **computational mechanics**, **cardiac electrophysiology**, and **Scientific Machine Learning (Scientific ML)**.
+I conduct my research at **[The Hidden Heart Lab](https://hiddenheartlab.org/)**, under the supervision of Professor Francisco Sahli Costabal. My work focuses on the intersection of **computational mechanics**, **cardiac electrophysiology**, and **Scientific Machine Learning**.
 
 My main goal is to develop efficient computational models that combine classical physics with neural networks (PINNs) to improve the simulation and understanding of cardiac pathologies.
 
