@@ -398,11 +398,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/dark_forest/";
-            },},{id: "books-death-39-s-end",
-          title: 'Death&amp;#39;s End',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/deaths_end/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
