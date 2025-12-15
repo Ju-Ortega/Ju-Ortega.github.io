@@ -2,7 +2,7 @@
 layout: book-review
 title: The Three-Body Problem
 author: Cixin Liu
-isbn: 9780765377067
+isbn: 9781784971571
 stars: 5
 status: finished
 categories: sci-fi physics aliens
