@@ -398,6 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-the-three-body-problem",
+          title: 'The Three-Body Problem',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/three_body_problem/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
